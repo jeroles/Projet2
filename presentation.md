@@ -1,7 +1,7 @@
 # presentation
 ## L'entreprise
-l'entreprise est basée a pau.
+l'entreprise est basée a Orlando.
 
-Elle est fondée en 2016.
+Elle est fondée en 1940.
 
-Le fondateur est DP.
+Le fondateur est Mickey Mouse.
